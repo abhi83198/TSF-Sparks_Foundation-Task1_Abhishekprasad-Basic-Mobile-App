@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFFFFF</color>
+    <color name="purple_500">#FFFFFF</color>
+    <color name="purple_700">#FFFFFF</color>
+    <color name="teal_200">#FFFFFF</color>
+    <color name="teal_700">#FFFFFF</color>
+    <color name="black">#FFFFFF</color>
+    <color name="absolute_black">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    UI colors-->
+    <color name="ui_normal">#CCFFDD</color>
+    <color name="ui_dark">#FFFFFF</color>
+    <color name="list_item_bg">#FFFFFF</color>
+
+<!--    Customised colors-->
+    <color name="base_theme1">@color/ui_normal</color>
+    <color name="base_theme2">@color/ui_dark</color>
+</resources>
